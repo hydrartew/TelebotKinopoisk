@@ -1,0 +1,60 @@
+{
+    "kinopoiskId": 1165440,
+    "imdbId": "tt8577458",
+    "nameRu": "\u041c\u0435\u043b\u043e\u043c\u0430\u043d\u043a\u0430",
+    "nameEn": null,
+    "nameOriginal": "High Fidelity",
+    "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1165440.jpg",
+    "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1165440.jpg",
+    "coverUrl": "https://avatars.mds.yandex.net/get-ott/1672343/2a0000017c07911462a60c0031b9c0c7764e/orig",
+    "logoUrl": "https://avatars.mds.yandex.net/get-ott/223007/2a000001712c769b1972a1a4152d17fa28c0/orig",
+    "reviewsCount": 20,
+    "ratingGoodReview": 86.1,
+    "ratingGoodReviewVoteCount": 14,
+    "ratingKinopoisk": 7.8,
+    "ratingKinopoiskVoteCount": 53255,
+    "ratingImdb": 7.7,
+    "ratingImdbVoteCount": 13755,
+    "ratingFilmCritics": null,
+    "ratingFilmCriticsVoteCount": 0,
+    "ratingAwait": 95.0,
+    "ratingAwaitCount": 272,
+    "ratingRfCritics": 50.0,
+    "ratingRfCriticsVoteCount": 4,
+    "webUrl": "https://www.kinopoisk.ru/film/1165440/",
+    "year": 2020,
+    "filmLength": 25,
+    "slogan": null,
+    "description": "\u0420\u043e\u0431 \u2014 \u0445\u043e\u0437\u044f\u0439\u043a\u0430 \u0431\u0440\u0443\u043a\u043b\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430 \u043f\u043b\u0430\u0441\u0442\u0438\u043d\u043e\u043a. \u0424\u0430\u043d\u0430\u0442\u043a\u0430 \u043c\u0443\u0437\u044b\u043a\u0438 \u0438 \u043f\u043e\u043f-\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b, \u0441 \u0438\u0445 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043e\u043d\u0430 \u0440\u0430\u0437\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f \u0441 \u043f\u0440\u043e\u0448\u043b\u044b\u043c\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f\u043c\u0438 \u0438 \u043f\u044b\u0442\u0430\u0435\u0442\u0441\u044f \u043f\u0435\u0440\u0435\u0436\u0438\u0442\u044c \u0440\u0430\u0441\u0441\u0442\u0430\u0432\u0430\u043d\u0438\u0435 \u0441 \u043b\u044e\u0431\u0438\u043c\u044b\u043c \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c.",
+    "shortDescription": "\u0425\u043e\u0437\u044f\u0439\u043a\u0430 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430 \u0432\u0438\u043d\u0438\u043b\u0430 \u043f\u0435\u0440\u0435\u0431\u0438\u0440\u0430\u0435\u0442 \u043f\u043b\u0430\u0441\u0442\u0438\u043d\u043a\u0438 \u0438 \u0432\u0441\u043f\u043e\u043c\u0438\u043d\u0430\u0435\u0442 \u0431\u044b\u0432\u0448\u0438\u0445. \u0417\u043e\u0438 \u041a\u0440\u0430\u0432\u0438\u0446 \u0432 \u044d\u043a\u0440\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0440\u043e\u043c\u0430\u043d\u0430 \u041d\u0438\u043a\u0430 \u0425\u043e\u0440\u043d\u0431\u0438",
+    "editorAnnotation": null,
+    "isTicketsAvailable": false,
+    "productionStatus": null,
+    "type": "TV_SERIES",
+    "ratingMpaa": null,
+    "ratingAgeLimits": "age16",
+    "countries": [
+        {
+            "country": "\u0421\u0428\u0410"
+        }
+    ],
+    "genres": [
+        {
+            "genre": "\u043c\u0435\u043b\u043e\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+            "genre": "\u043a\u043e\u043c\u0435\u0434\u0438\u044f"
+        },
+        {
+            "genre": "\u043c\u0443\u0437\u044b\u043a\u0430"
+        }
+    ],
+    "startYear": 2020,
+    "endYear": 2020,
+    "serial": true,
+    "shortFilm": false,
+    "completed": true,
+    "hasImax": false,
+    "has3D": false,
+    "lastSync": "2023-03-12T04:28:22.108206"
+}
