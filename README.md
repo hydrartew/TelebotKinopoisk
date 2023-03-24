@@ -1,4 +1,4 @@
-# Учебный проект
+Учебный проект
 
 <div align="center">
   <h1>KinoPoiskAPI + Telegram bot</h1>
